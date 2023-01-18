@@ -8,3 +8,5 @@ You also know that there is an interest in details about the competitors, so if 
 The main task is still to show historical performance for different countries, with the possibility to select your own country.
 
 The identified business problem was solved using Microsoft SQL Server Management Studio (MSSMS) for the SQL statements and Power BI for visualization
+
+Read full story at https://link.medium.com/n1LyUyXl4vb
